@@ -1,3 +1,3 @@
-# ask-a-doc.github.io
+# noble.github.io
 
-Ask A Doc is designed and implemented by Lauren Clayton, Rina Ogino, Thomas Rivera, Ryne Stagen, and Brandon Underwood. 
+Noble is designed and implemented by Lauren Clayton, Rina Ogino, Thomas Rivera, Ryne Stagen, and Brandon Underwood. 
