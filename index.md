@@ -13,9 +13,6 @@
 Our platform, Noble, is in collaboration with the Hawaii Air National Guard 154th Medical Group to allow efficiency and comfortability in streamlining medical processes. Service members will be able to ask medically related questions anonymously and navigate through the application to find frequenty asked questions. This application will illustrate various technologies useful to  software engineering, including: 
 
 * [Next.js](https://nextjs.org/) for Javascript and TypeScript based implementation of client and server code.
-* [React](https://react.dev/) for component-based UI implementation and routing.
-* [React](https://react-bootstrap.github.io/) Bootstrap CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
 View our website application here: [Noble](https://noble.wiki/)
