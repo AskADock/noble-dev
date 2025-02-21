@@ -6,6 +6,7 @@
 - [Problem](#problem)
 - [Deployment](#deployment)
 - [User Guide](#user-guide)
+- [Development](#development)
 - [Team](#team)
 - [Community Feedback](#community-feedback)
 
@@ -31,7 +32,16 @@ Despite implementing an anonymous “Ask a Doc” dropbox for questions, no quer
 
 View our V1 website application here: [noble.wiki](https://noble.wiki/)
 
-### Tech Stack
+### V1 Tech Stack
+
+- [Meteor](https://www.meteor.com/)
+- [React](https://react.dev/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [MongoDB](https://www.mongodb.com/)
+- [OpenAI](https://openai.com/)
+- [TestCafe](https://testcafe.io/)
+
+### V2 Tech Stack
 
 - [Next.js](https://nextjs.org/)
 - [tailwindcss](https://v3.tailwindcss.com/)
@@ -74,6 +84,28 @@ Meet Noble AI, our chatbot trained on Air Force Medical Standatds and procedutes
 Couldn't find an answer? Ask A Doc! Use our anonymous platform to submit medical questions. To maintain privacy and security, a passcode system is employed to ensure only service members have access.
 
 <img src="images/ask-a-doc.png" width="500">
+
+## Development
+
+The following describes the development process of our app:
+
+## Milestone 1
+
+Milestone 1 is the reintroduction into the
+
+### Week 1
+
+The team met with the sponsor to discuss the progress of Noble and to gather feedback on the current implementation. During the meeting, the sponsor provided valuable insights into it's currently procedures and plans to further integrate Noble into their workflows.
+
+As of now, Noble was introduced to the 154th Medical Group internally with optimism. It however requires further approval from higher leadership and a workflow plan for answering submitted questions.
+
+The team and the sponsor agreed on several new features and improvements to enhance the user experience and address any existing issues. This collaboration ensures that Noble continues to meet the needs of the Hawaii Air National Guard service members effectively.
+
+### Week 2
+
+Development has officially begun, with the tech stack finalized. After learning about the numerous hurdles of Noble V1, V2 aims to modernize its technologies using Next.js, Tailwind CSS, Shadcn/ui, and MongoDB. This week’s focus will be on transitioning the current V1 Noble public pages to the new tech stack.
+
+During our weekly sponsor meeting, a university student from Colorado State University has reached out and shown interest in joining our team. We will interview them and decide if they can join the team.
 
 ## Team
 
