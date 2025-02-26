@@ -91,9 +91,9 @@ The following describes the development process of our app:
 
 ## Milestone 1
 
-Milestone 1 is the reintroduction into the
+Milestone 1 is the reintroduction to Noble, worked on as a capstone project in continuation of engineering management.
 
-### Week 1
+### Week 1 (January 27 - February 7, 2025)
 
 The team met with the sponsor to discuss the progress of Noble and to gather feedback on the current implementation. During the meeting, the sponsor provided valuable insights into it's currently procedures and plans to further integrate Noble into their workflows.
 
@@ -106,6 +106,32 @@ The team and the sponsor agreed on several new features and improvements to enha
 Development has officially begun, with the tech stack finalized. After learning about the numerous hurdles of Noble V1, V2 aims to modernize its technologies using Next.js, Tailwind CSS, Shadcn/ui, and MongoDB. This week’s focus will be on transitioning the current V1 Noble public pages to the new tech stack.
 
 During our weekly sponsor meeting, a university student from Colorado State University has reached out and shown interest in joining our team. We will interview them and decide if they can join the team.
+
+Additionally, our sponsors emphasized the importance of increasing awareness about Noble within the 154th Medical Group. To address this, we developed a February newsletter announcing that Noble is now live and operational. The newsletter was distributed before the weekend drill, ensuring that service members were informed about the platform and its potential benefits.
+
+### Week 3
+
+Tara Walsdorf, a student from Colorado State University, has officially joined our team. We conducted an onboarding session to familiarize them with our current implementations, team expectations, and development roadmap. Their addition to the team brings valuable skills and an external perspective that could further enhance the project.
+
+Throughout the week, we focused on continuous integration efforts for the website, ensuring that new changes are seamlessly incorporated into the system. During our weekly sponsor meeting, we presented our progress, including the successful migration of key components from Noble V.1 to the new technology stack. We also addressed sponsor feedback and discussed upcoming development goals. These regular check-ins allow us to refine our approach and ensure that the project remains aligned with user needs.
+
+## Milestone 2 (February 10 - February 21, 2025)
+
+### Week 4
+
+As part of our continued modernization efforts, we have begun transitioning the backend of Noble to Next.js. This shift aims to improve performance, scalability, and maintainability while streamlining the integration of new features. The backend transition is a crucial step in enhancing Noble’s capabilities, allowing for more efficient data management and improved responsiveness.
+
+In addition to backend development, we have been refining the user interface to ensure a more intuitive experience. The team has focused on optimizing navigation, enhancing accessibility, and incorporating feedback from our sponsors to make the platform more user-friendly. These refinements are essential to increasing adoption and ensuring that service members can easily navigate and utilize the platform’s features.
+
+### Week 5
+
+The team had a significant meeting with the 154th Unit Health Monitors (UHMs) to introduce Noble and explore how it can be integrated into their existing systems as a valuable resource. The discussion centered on the platform’s potential to streamline communication, manage health-related inquiries, and support the UHMs in their daily operations.
+
+During the meeting, we provided a live demonstration of Noble’s features, highlighting its ability to improve efficiency within the medical group. The UHMs shared their thoughts on the platform and provided feedback on potential enhancements that would make it more tailored to their needs. This collaboration was instrumental in identifying additional functionalities that could be incorporated in future iterations of Noble.
+
+Moving forward, we plan to implement the suggested improvements, refine workflows based on UHM requirements, and continue working on backend development. By maintaining open communication with our stakeholders, we ensure that Noble remains a dynamic and evolving solution that effectively serves HIANG’s needs.
+
+## Milestone 3 (February 24 - March 7, 2025)
 
 ## Team
 
