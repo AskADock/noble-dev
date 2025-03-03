@@ -133,6 +133,9 @@ Moving forward, we plan to implement the suggested improvements, refine workflow
 
 ## Milestone 3 (February 24 - March 7, 2025)
 
+### Week 6
+The transition of Noble to Next.JS has continued with progress going smoothly. Currently, all public pages are completed and updated with new feedback and bug fixes. Development is now focused on the MDG side and securing the public pages with captchas. To ensure Noble suceedes, the team is working to produce flyers and newsletters to spead the word. Furthermore, we plan to conduct more user testing and feedback in the comming weeks.
+
 ## Team
 
 Noble (v.2) is designed and implemented by Rina Ogino, Thomas Rivera, and Tara Walsdorf.
