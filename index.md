@@ -89,11 +89,11 @@ Couldn't find an answer? Ask A Doc! Use our anonymous platform to submit medical
 
 The following describes the development process of our app:
 
-## Milestone 1
+## Milestone 1 (January 20 - February 7, 2025)
 
 Milestone 1 is the reintroduction to Noble, worked on as a capstone project in continuation of engineering management.
 
-### Week 1 (January 27 - February 7, 2025)
+### Week 1
 
 The team met with the sponsor to discuss the progress of Noble and to gather feedback on the current implementation. During the meeting, the sponsor provided valuable insights into it's currently procedures and plans to further integrate Noble into their workflows.
 
@@ -134,7 +134,44 @@ Moving forward, we plan to implement the suggested improvements, refine workflow
 ## Milestone 3 (February 24 - March 7, 2025)
 
 ### Week 6
+
 The transition of Noble to Next.JS has continued with progress going smoothly. Currently, all public pages are completed and updated with new feedback and bug fixes. Development is now focused on the MDG side and securing the public pages with captchas. To ensure Noble suceedes, the team is working to produce flyers and newsletters to spead the word. Furthermore, we plan to conduct more user testing and feedback in the comming weeks.
+
+### Week 7
+
+The development team focused on laying the foundation for the medical side dashboard and internal functionalities. The goal was to begin converting the MDG interface pages while ensuring compatibility with the backend infrastructure already transitioned to Next.js. We mapped out user flows for healthcare professionals and organizing how question submissions would be stored, sorted, and displayed.
+
+Simultaneously, we finalized the first drafts of promotional materials including a flyer and informational one-pager intended for the 154th Medical Group. These resources aim to clarify Noble’s features and encourage staff to participate in feedback sessions. The flyers were shared with our sponsor for review and are expected to be distributed during the next weekend drill. Overall, this week was a productive mix of backend planning, UI prototyping, and strategic outreach to increase user engagement.
+
+## Milestone 4 (March 10 - March 28, 2025)
+
+### Week 8
+
+We started to shift our attention to actively developing and converting key medical group related pages. This included the Medical Home page, which acts as a landing space for medical staff, and the question management page, which allow authorized personnel to view, respond to, and track inquiries. We ensured that the layout remained intuitive and accessible while incorporating visual elements consistent with the public side of Noble.
+
+### Week 9
+
+Spring recess. The team got a chance to recharge, and we will meet the following week for any updates and sharing next steps.
+
+### Week 10
+
+Following Spring Break, we resumed active development by implementing CAPTCHA to improve the security of Noble’s forms. This addition helps verify whether a human is interacting with the platform, which is especially important given that the question submission form could otherwise be vulnerable to spam or bot entries. After integrating the CAPTCHA component, we began testing its behavior across devices and made sure it did not disrupt the user experience.
+
+Simultaneously, debugging efforts ramped up on the medical side pages. We began testing routes related to medical staff login, access permissions, and dashboard functionality. These continuous enhancements move Noble closer to being a comprehensive and secure platform for both public users and medical staff.
+
+## Milestone 5 (March 31 - April 18, 2025)
+
+### Week 11
+
+The team is still in continuous integration and debugging of the medical side features. One major area of focus was the feedback management page, which allows medical personnel to view inquiries submitted by users, and see if there are any additional things that we could improve on. We worked on ensuring smooth transitions between different states such as viewing open questions, responding, and archiving resolved tickets.
+
+We have also tested backend routes to guarantee reliable database interactions, especially for logging staff responses and status changes. We are still looking at the implementation of CAPTCHA, as we need it to work with other features of Noble. With development nearing the finish line, these refinements are vital for making Noble a trustworthy and efficient platform that integrates seamlessly into the medical team’s workflow.
+
+### Week 12
+
+This week was a milestone moment for the team, as we conducted a live demonstration of Noble with members of the 154th Medical Group during their drill on Sunday. The goal was to walk through the key features of both the public and internal facing sides of the platform, gather real-time feedback, and discuss how Noble could be adapted further to fit their needs. Their feedback was overwhelmingly positive, with several members expressing enthusiasm about its potential to improve communication and workflow.
+
+Participants provided constructive feedback on areas such as visibility of answered questions, adding on more questions to the FAQ, and suggestions for certain features. Following the demonstration, we compiled all comments into an checklist to guide our remaining weeks of development. This feedback loop was essential, reinforcing that our user-centered design approach was on the right track and giving us the insight needed for the final rounds of updates.
 
 ## Team
 
