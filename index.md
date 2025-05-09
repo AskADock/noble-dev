@@ -173,6 +173,26 @@ This week was a milestone moment for the team, as we conducted a live demonstrat
 
 Participants provided constructive feedback on areas such as visibility of answered questions, adding on more questions to the FAQ, and suggestions for certain features. Following the demonstration, we compiled all comments into an checklist to guide our remaining weeks of development. This feedback loop was essential, reinforcing that our user-centered design approach was on the right track and giving us the insight needed for the final rounds of updates.
 
+## Milestone 6 (April 21 - May 2, 2025)
+
+### Week 13
+
+As we approach the end of this semester, our team has begun to strategize about the long term deployment of Noble. One of the key initiativees this week was a meeting with a representative from the communications squadron to discuss potential funding opportunities for the project. This conversation opened doors to potential partnerships with approved projects by leadership, and helped us identify the next steps in establishing Noble as a viable, ongoing tool beyond this academic timeline. We also became aware of competing products against Noble that serve a similar purpose, yet we are looking for solutions to prove the differentitation between Noble and other products.
+
+As for the technical side, we made significant progress in backend development by implementing a temporary user login system. This system allows us to test user flows in a functional staging environement, which is essential for demonstrating Noble's security features and future scalability.
+
+### Week 14
+
+This week, we refined our content updates to ensure Noble aligns with changes made to the Med Standards app. We uploaded newly released medical documentation and ensured that all resources reflect in the Question Compass. Users will receive accurate and real time information that meets operational standards, and we are in continous training of the data in the AI bot so that it is accurate and up to date. These improvements will be crucial in increasing user trust and system reliability once Noble enters a more public testing or deployment phase.
+
+We have also begun planning a follow up meeting with leadership to revisit discussions around Noble’s future and explore opportunities for full funding and institutional support. To prepare for this, we are focusing on gathering accurate data and usage metrics to demonstrate Noble’s viability, efficiency, and value as a critical tool for supporting the needs of 154th Group service members.
+
+### Thursday, May 8, 2025: Poster Presentation Day
+
+On this day, the Noble (v.2) team presented the final capstone project poster. Our display attracted a wide range of visitors, including faculty and students. We were able to explain the core features of Noble, its evolution from earlier versions, and its potential impact on HIANG operations and medical readiness assessments.
+
+The feedback we received was overwhelmingly positive, with many attendees expressing interest in our use of AI to streamline complex document interpretation and procedural compliance. The interactive components we showcased, particularly the Question Compass and backend prototype, were well-received and sparked several engaging conversations about implementation and next steps. The event marked a proud moment for our team, validating months of hard work and innovation.
+
 ## Team
 
 Noble (v.2) is designed and implemented by Rina Ogino, Thomas Rivera, and Tara Walsdorf.
