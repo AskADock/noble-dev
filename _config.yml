@@ -1,5 +1,6 @@
 title: Noble
-description: An app for efficient access of medical processes 
+description: An app for efficient and anonymousaccess of medical processes within the Hawaii Air National Guard.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+favicon: /images/Noble-Logo.png
